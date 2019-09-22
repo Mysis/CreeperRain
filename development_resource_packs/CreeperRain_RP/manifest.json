@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "CreeperRain resource pack description",
+    "name": "CreeperRain Resource Pack",
+    "uuid": "31011ae1-6da8-42fc-8ad6-ea3b87c0fdd9",
+    "version": [ 0, 0, 1 ]
+  },
+  "modules": [
+    {
+      "description": "CreeperRain resource pack module description",
+      "type": "resources",
+      "uuid": "eff99e8f-7bde-46ad-8984-aa95c82215a5",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+*
+!*/
+
+!.gitignore
+!README.md
+!/development_behavior_packs/CreeperRain_BP/**
+!/development_resource_packs/CreeperRain_RP/**

@@ -1,0 +1,29 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "CreeperRain behavior pack description",
+    "name": "CreeperRain behavior pack",
+    "uuid": "38b614d7-865e-4c89-8061-22d35f2cd964",
+    "version": [ 0, 0, 1 ]
+  },
+  "modules": [
+    {
+      "description": "CreeperRain behavior pack module description",
+      "type": "data",
+      "uuid": "68fe00ff-735a-4410-a28f-5c54fe79c802",
+      "version": [ 0, 0, 1 ]
+    },
+    {
+      "description": "CreeperRain behavior pack client scripts description",
+      "type": "client_data",
+      "uuid": "bc78910e-17cb-44cf-840e-a9aa15e53c00",
+      "version": [ 0, 0, 1 ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "31011ae1-6da8-42fc-8ad6-ea3b87c0fdd9",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
